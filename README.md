@@ -69,10 +69,3 @@ Me chamo Pedro Henrique Barbosa Ezequiel de Melo, tenho 19 anos e sou de Lages, 
 <br/>
 
 
-  <img
-    align="left"
-    alt="Top Languages"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobezequielmelo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-</p>
