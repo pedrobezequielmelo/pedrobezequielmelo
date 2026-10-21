@@ -19,11 +19,11 @@ Me chamo Pedro Henrique Barbosa Ezequiel de Melo, tenho 19 anos e sou de Lages, 
             src="https://img.shields.io/badge/Gmail-pedrohenriquebemelo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <a href="https://github.com/SEU_USUARIO?tab=followers">
+    <a href="https://github.com/pedrobezequielmelo?tab=followers">
         <img
             alt="Seguidores"
             title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/SEU_USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/pedrobezequielmelo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -76,13 +76,13 @@ Me chamo Pedro Henrique Barbosa Ezequiel de Melo, tenho 19 anos e sou de Lages, 
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=pedrobezequielmelo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
   <img
     align="left"
     alt="Top Languages"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobezequielmelo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
